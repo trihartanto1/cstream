@@ -3,11 +3,9 @@ version = 20
 
 
 cloudstream {
-    language = "id"
-    // All of these properties are optional, you can safely remove them
-
-    // description = "Lorem Ipsum"
-    authors = listOf("Riharoe")
+    language.set("id")
+    description.set("Plugin LayarKaca")
+    authors.set(listOf("trihartanto1"))
 
     /**
      * Status int as the following:
