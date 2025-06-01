@@ -1,0 +1,8 @@
+{
+  "name": "Plugin LayarKaca",
+  "description": "Plugin Layar untuk CloudStream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/trihartanto1/cstream/refs/heads/main/build.gradle.kts"
+  ]
+}
