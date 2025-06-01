@@ -3,6 +3,6 @@
   "description": "Plugin Layar untuk CloudStream",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/trihartanto1/cstream/main/LayarKaca/build.gradle.kts"
+    "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/LayarKacaProvider/build.gradle.kts"
   ]
 }
